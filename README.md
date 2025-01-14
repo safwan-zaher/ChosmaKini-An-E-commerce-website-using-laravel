@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![image](https://github.com/user-attachments/assets/a5f738fc-6bbd-4d27-aa76-5636bd59a2cc)<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -65,3 +65,33 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 "# ChosmaKini-An-E-commerce-website-using-laravel" 
+
+
+
+
+
+# E-Commerce Website for Sunglasses - ChosmaKini
+
+This project is a fully functional e-commerce website built with **Laravel**, **phpMyAdmin**, and **XAMPP**. It enables users to browse, purchase, and manage sunglasses through a modern, user-friendly platform.
+
+---
+
+## Features
+
+- **Product Listings**: View a collection of sunglasses with images, descriptions, and prices.
+- **Shopping Cart**: Add, remove, and adjust quantities of items in the cart.
+- **User Authentication**: Register, log in, and manage user profiles.
+- **Admin Panel**: Manage products, categories, orders, and users.
+- **Payment Gateway Integration**: Process payments securely.
+- **Responsive Design**: Mobile and desktop-friendly interface.
+
+---
+
+## Technologies Used
+
+- **Framework**: Laravel
+- **Database**: phpMyAdmin (MySQL)
+- **Development Environment**: XAMPP
+- **Dependency Management**: Composer
+- **Frontend**: HTML, CSS, JavaScript
+- **Package Management**: npm (for frontend assets)
